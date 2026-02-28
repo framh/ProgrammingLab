@@ -1,7 +1,4 @@
 
-
-print('Di cosa vuoi pari o dispari?')
-x= int(input())
 def is_it_prime(x):
     counter=1
 
@@ -12,6 +9,7 @@ def is_it_prime(x):
                 return
             counter=counter+1
     print('è primo')
-        
 
-
+print('Di cosa vuoi pari o dispari?')
+x= int(input())
+is_it_prime(x)
