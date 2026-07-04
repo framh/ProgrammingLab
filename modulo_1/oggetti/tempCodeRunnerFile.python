@@ -1,0 +1,47 @@
+
+
+class ExamException(Exception):
+    pass
+
+class CSVTimeSeriesFile():
+    def __init__(self, name):
+        if not isinstance(name, str):
+            raise ExamException("Il tipo del nome del file è errato")
+        
+        if name == "":
+            raise ExamException("Il nome non può essere lasciato vuoto")
+        
+        try:
+            with open(name, 'r') as file:
+                self.name = name
+        
+        except FileNotFoundError:
+            raise ExamException("Il file non è stato aperto")
+    
+    def get_data(self):
+        listone = []
+
+        with open(self.name, 'r') as file:
+            righe = file.readlines()
+
+            for riga in righe[1:]:
+                eventi = riga.strip().split(",")
+                data = eventi[0].split("-")
+
+                try:
+                    check = float(eventi[1])
+                    if check < 0:
+                        continue
+
+                    listone.append([eventi[0], check])
+                except ValueError:
+                    print("dato viziato o mancante")
+                    continue
+            print(f"LISTONE: {listone}")
+            return(listone)
+
+docs = CSVTimeSeriesFile("data_esercitazione2.csv")
+lista = docs.get_data()
+
+
+                

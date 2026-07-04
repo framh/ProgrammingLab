@@ -1,0 +1,5 @@
+print('Di cosa voi quadrato e cubo?')
+x= int(input())
+y=  pow(x,2)
+z= pow(x,3)
+print('"quadrato: \n', y, "\n cubo: \n", z)
