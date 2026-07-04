@@ -1,0 +1,151 @@
+Job_Title,Location,Company,Salary_Min,Salary_Max,Date_Posted,Remote
+Frontend Developer,"Roma, IT",PixelLabs,32860,43051.0,2024-04-12,True
+Data Engineer,"Napoli, IT",DataWorks,44578,60941.0,2024-05-10,True
+DevOps Engineer,"Milano, IT",DataWorks,46611,54044.0,2024-10-03,True
+Backend Developer,Remote,PixelLabs,39843,,2024-06-18,False
+Frontend Developer,Remote,PixelLabs,32189,,2024-12-29,False
+Data Engineer,Remote,InnovaSoft,42556,61912.0,2024-09-30,False
+Backend Developer,Remote,TechCorp,35241,47754.0,2024-12-05,False
+Frontend Developer,Remote,Quantum Systems,34556,47782.0,2024-02-19,True
+Backend Developer,Remote,TechCorp,37613,50602.0,2024-08-05,False
+Backend Developer,Remote,CloudNine,35995,54098.0,2024-08-02,True
+DevOps Engineer,Remote,CloudNine,41337,51224.0,2024-09-08,False
+Data Analyst,"Milano, IT",TechCorp,34276,39340.0,2024-01-09,True
+DevOps Engineer,"Torino, IT",NextGen AI,46258,51649.0,2024-10-15,True
+Frontend Developer,"Napoli, IT",InnovaSoft,35099,54250.0,2024-02-02,True
+Data Engineer,"Bologna, IT",PixelLabs,41731,54885.0,2024-08-14,False
+Data Engineer,"Torino, IT",ByteForge,42840,48342.0,2024-12-24,False
+Frontend Developer,"Milano, IT",TechCorp,37977,,2024-03-03,True
+DevOps Engineer,"Bologna, IT",InnovaSoft,42757,54131.0,2024-06-19,True
+DevOps Engineer,"Napoli, IT",Quantum Systems,42722,53637.0,2024-02-14,False
+Backend Developer,"Roma, IT",InnovaSoft,39891,48518.0,2024-11-26,True
+Data Analyst,Remote,DataWorks,32302,50998.0,2024-04-30,True
+Data Engineer,"Torino, IT",InnovaSoft,39709,57645.0,2024-08-12,True
+DevOps Engineer,Remote,PixelLabs,42998,59933.0,2024-08-20,True
+Data Analyst,"Milano, IT",NextGen AI,33659,50308.0,2024-04-10,False
+Data Engineer,"Milano, IT",TechCorp,41160,60715.0,2024-08-11,False
+Backend Developer,Remote,,40249,56218.0,2024-09-03,True
+DevOps Engineer,"Napoli, IT",CloudNine,45218,54607.0,2024-04-07,True
+Frontend Developer,"Torino, IT",DataWorks,32608,41890.0,2024-12-14,False
+Data Engineer,Remote,CloudNine,40369,53707.0,2024-07-17,False
+DevOps Engineer,"Napoli, IT",DataWorks,46759,62870.0,2024-05-30,False
+Frontend Developer,"Milano, IT",PixelLabs,37883,51698.0,2024-02-29,True
+DevOps Engineer,"Milano, IT",NextGen AI,44723,63194.0,2024-01-09,True
+DevOps Engineer,Remote,InnovaSoft,43255,54550.0,2024-06-09,True
+DevOps Engineer,"Napoli, IT",PixelLabs,46539,63654.0,2024-04-21,False
+Data Analyst,"Torino, IT",PixelLabs,34980,44953.0,2024-11-05,False
+Data Analyst,Remote,InnovaSoft,33067,45011.0,2024-10-30,True
+DevOps Engineer,"Napoli, IT",PixelLabs,46254,55989.0,2024-01-22,False
+Backend Developer,"Bologna, IT",NextGen AI,38436,49331.0,2024-08-13,False
+Senior Software Engineer,Remote,NextGen AI,52959,69218.0,2024-05-26,True
+Data Analyst,"Torino, IT",Quantum Systems,29016,36221.0,2024-01-06,False
+ML Engineer,Remote,Quantum Systems,49327,54628.0,2024-04-08,False
+Frontend Developer,"Roma, IT",CloudNine,34300,45402.0,2024-11-18,False
+Frontend Developer,"Napoli, IT",TechCorp,32569,40302.0,2024-10-14,True
+Frontend Developer,"Napoli, IT",ByteForge,32154,49403.0,2024-10-25,True
+ML Engineer,Remote,DataWorks,52801,63787.0,2024-01-13,False
+Data Analyst,Remote,TechCorp,33131,40499.0,2024-05-21,False
+Frontend Developer,"Torino, IT",PixelLabs,37211,48130.0,2024-12-07,False
+Frontend Developer,Remote,Quantum Systems,35261,46718.0,2024-10-31,True
+Frontend Developer,Remote,PixelLabs,37173,53025.0,2024-02-22,True
+ML Engineer,"Torino, IT",TechCorp,52222,,2024-12-15,False
+Senior Software Engineer,"Torino, IT",CloudNine,56364,74781.0,2024-05-24,False
+Frontend Developer,"Milano, IT",Quantum Systems,33369,,2024-10-05,False
+Data Analyst,"Milano, IT",DataWorks,30081,46122.0,2024-04-27,False
+ML Engineer,"Napoli, IT",NextGen AI,51992,61062.0,2024-03-09,False
+Data Engineer,"Bologna, IT",ByteForge,42147,50653.0,2024-07-03,True
+ML Engineer,"Roma, IT",ByteForge,50118,,2024-07-22,False
+ML Engineer,"Roma, IT",InnovaSoft,51646,64067.0,2024-01-23,False
+ML Engineer,"Milano, IT",Quantum Systems,49849,61754.0,2024-04-05,False
+ML Engineer,"Torino, IT",NextGen AI,51611,65138.0,2024-06-08,False
+Senior Software Engineer,Remote,ByteForge,55746,64746.0,2024-04-10,True
+Data Analyst,"Napoli, IT",CloudNine,34287,47010.0,2024-01-12,True
+Data Engineer,"Roma, IT",NextGen AI,39753,55841.0,2024-04-02,False
+Backend Developer,"Bologna, IT",TechCorp,35417,44391.0,2024-04-23,False
+DevOps Engineer,"Milano, IT",PixelLabs,41728,57728.0,2024-12-22,False
+Data Engineer,"Napoli, IT",DataWorks,40122,50195.0,2024-04-05,False
+Senior Software Engineer,"Napoli, IT",ByteForge,55440,70958.0,2024-12-26,False
+Backend Developer,"Milano, IT",CloudNine,35595,41960.0,2024-01-19,True
+ML Engineer,"Torino, IT",Quantum Systems,51171,66182.0,2024-02-21,False
+DevOps Engineer,"Milano, IT",PixelLabs,45980,,2024-02-22,True
+ML Engineer,"Torino, IT",PixelLabs,52161,63702.0,2024-05-12,False
+Data Engineer,"Napoli, IT",ByteForge,43846,56087.0,2024-09-09,True
+ML Engineer,"Roma, IT",ByteForge,48191,,2024-05-01,True
+ML Engineer,Remote,Quantum Systems,52541,71348.0,2024-12-07,True
+Frontend Developer,"Bologna, IT",CloudNine,36312,51331.0,2024-10-01,True
+Frontend Developer,"Bologna, IT",TechCorp,36186,52980.0,2024-06-21,False
+Backend Developer,"Milano, IT",TechCorp,36081,49728.0,2024-12-26,False
+Senior Software Engineer,"Milano, IT",CloudNine,56285,62816.0,2024-11-07,True
+Backend Developer,"Bologna, IT",Quantum Systems,37105,,2024-11-12,True
+ML Engineer,"Milano, IT",PixelLabs,51298,70285.0,2024-01-20,False
+Data Analyst,"Napoli, IT",,32376,40862.0,2024-02-23,True
+Frontend Developer,"Bologna, IT",Quantum Systems,37131,53154.0,2024-06-04,True
+Senior Software Engineer,"Bologna, IT",PixelLabs,56185,68668.0,2024-08-07,False
+DevOps Engineer,"Bologna, IT",PixelLabs,46320,59211.0,2024-08-27,True
+Data Engineer,"Milano, IT",NextGen AI,42324,54350.0,2024-10-29,False
+DevOps Engineer,"Napoli, IT",DataWorks,41797,59961.0,2024-10-15,False
+DevOps Engineer,"Napoli, IT",ByteForge,46358,64498.0,2024-08-04,False
+Data Analyst,"Napoli, IT",TechCorp,34580,,2024-11-06,False
+ML Engineer,"Bologna, IT",PixelLabs,48668,55128.0,2024-02-22,False
+Data Engineer,"Bologna, IT",TechCorp,44264,55864.0,2024-02-20,False
+Backend Developer,"Roma, IT",TechCorp,39544,54559.0,2024-04-04,False
+Backend Developer,"Bologna, IT",ByteForge,37165,46528.0,2024-08-23,True
+Data Engineer,"Bologna, IT",TechCorp,40848,48662.0,2024-07-25,False
+Data Scientist,"Roma, IT",,44122,62173.0,2024-11-01,False
+Frontend Developer,Remote,PixelLabs,34482,40813.0,2024-11-30,True
+Data Scientist,"Milano, IT",InnovaSoft,44128,56171.0,2024-11-25,True
+DevOps Engineer,"Torino, IT",CloudNine,45164,64552.0,2024-05-05,False
+Data Engineer,"Torino, IT",TechCorp,40906,53736.0,2024-04-04,True
+DevOps Engineer,"Torino, IT",InnovaSoft,41899,56810.0,2024-12-17,False
+DevOps Engineer,"Roma, IT",TechCorp,42969,59283.0,2024-01-05,True
+ML Engineer,"Napoli, IT",InnovaSoft,52524,72504.0,2024-12-11,True
+Backend Developer,"Milano, IT",TechCorp,36753,48993.0,2024-02-16,False
+DevOps Engineer,"Milano, IT",TechCorp,45202,53846.0,2024-10-18,True
+Data Engineer,"Napoli, IT",CloudNine,40276,45578.0,2024-08-01,False
+Frontend Developer,"Torino, IT",TechCorp,34125,39489.0,2024-07-05,False
+Frontend Developer,"Roma, IT",TechCorp,32918,43788.0,2024-09-30,True
+Data Engineer,"Milano, IT",CloudNine,42086,52836.0,2024-07-20,False
+Backend Developer,Remote,CloudNine,35125,46413.0,2024-01-25,True
+Data Analyst,"Milano, IT",PixelLabs,31156,42527.0,2024-02-03,False
+Data Scientist,"Torino, IT",NextGen AI,44472,52211.0,2024-08-13,True
+ML Engineer,"Napoli, IT",TechCorp,50812,57272.0,2024-07-16,True
+Senior Software Engineer,"Milano, IT",DataWorks,55421,71010.0,2024-11-06,True
+Data Engineer,"Roma, IT",,41590,57377.0,2024-01-06,False
+Data Engineer,"Napoli, IT",Quantum Systems,39003,,2024-04-03,False
+Data Analyst,Remote,InnovaSoft,33289,51992.0,2024-06-21,True
+Data Scientist,Remote,PixelLabs,43141,57056.0,2024-04-22,True
+Data Scientist,"Bologna, IT",PixelLabs,46749,53577.0,2024-12-21,False
+Data Analyst,Remote,PixelLabs,29901,34910.0,2024-05-17,True
+DevOps Engineer,"Milano, IT",DataWorks,44713,,2024-11-24,True
+Frontend Developer,Remote,Quantum Systems,34038,48348.0,2024-11-13,False
+Backend Developer,"Milano, IT",DataWorks,36908,47164.0,2024-02-04,False
+Backend Developer,"Napoli, IT",ByteForge,38643,51650.0,2024-08-16,False
+Data Engineer,Remote,NextGen AI,43820,51718.0,2024-03-02,True
+Data Scientist,"Torino, IT",InnovaSoft,44136,59191.0,2024-01-14,False
+Data Analyst,"Roma, IT",DataWorks,34142,48326.0,2024-08-12,False
+DevOps Engineer,"Torino, IT",InnovaSoft,43151,50121.0,2024-03-07,True
+DevOps Engineer,"Napoli, IT",ByteForge,46742,61969.0,2024-06-05,False
+ML Engineer,"Bologna, IT",PixelLabs,47950,55193.0,2024-01-10,False
+Data Analyst,Remote,CloudNine,34237,46563.0,2024-12-30,True
+ML Engineer,"Roma, IT",InnovaSoft,50719,70101.0,2024-06-21,True
+Data Engineer,"Torino, IT",PixelLabs,40955,55981.0,2024-05-27,False
+DevOps Engineer,"Torino, IT",InnovaSoft,43597,54763.0,2024-10-28,True
+ML Engineer,Remote,NextGen AI,50005,62795.0,2024-06-19,True
+DevOps Engineer,"Milano, IT",NextGen AI,46443,55319.0,2024-04-15,False
+Data Scientist,"Napoli, IT",TechCorp,47109,,2024-10-23,False
+Data Analyst,"Milano, IT",ByteForge,31861,40278.0,2024-06-30,True
+Backend Developer,"Milano, IT",InnovaSoft,39662,58884.0,2024-11-04,True
+Data Analyst,"Roma, IT",InnovaSoft,33212,46182.0,2024-01-25,False
+Data Scientist,"Torino, IT",InnovaSoft,45281,56771.0,2024-12-29,True
+DevOps Engineer,"Milano, IT",TechCorp,45120,63117.0,2024-06-09,False
+Data Engineer,Remote,PixelLabs,43757,54345.0,2024-12-02,False
+Senior Software Engineer,"Milano, IT",,55701,65883.0,2024-02-18,True
+Backend Developer,"Napoli, IT",Quantum Systems,37262,43213.0,2024-02-01,True
+ML Engineer,"Napoli, IT",PixelLabs,48500,65187.0,2024-09-13,False
+Data Scientist,"Torino, IT",InnovaSoft,46289,56521.0,2024-06-14,True
+Data Analyst,"Roma, IT",ByteForge,32335,45373.0,2024-09-22,False
+Data Scientist,"Bologna, IT",DataWorks,45451,50505.0,2024-06-26,False
+Data Analyst,"Napoli, IT",NextGen AI,31806,51100.0,2024-11-23,True
+ML Engineer,"Napoli, IT",DataWorks,50675,63645.0,2024-03-18,False
+Senior Software Engineer,"Roma, IT",InnovaSoft,57619,69231.0,2024-11-06,True
+Frontend Developer,"Bologna, IT",DataWorks,34198,42893.0,2024-02-05,False
